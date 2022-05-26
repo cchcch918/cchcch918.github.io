@@ -17,7 +17,7 @@ export const ProjectList = [
       "Angular8, NGXS, RXJS, NgZorro, Java Spring, Hibernate, Oracle SQL",
   },
   {
-    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/weather1.png",
+    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/weather1.PNG",
     title: "Weather App",
     description:
       "Weather apps to provide accurate weather information based on location. Integrated using Open Weather API.",

@@ -20,12 +20,12 @@ function About() {
           />
           <div className='AboutBio'>
             Hello! My name is <strong>Chor Choon Heng</strong> A Full stack
-            developer from Malaysia, currently working as an IT specialist in
-            Fintech industry, seeking a Full Stack Developer position that will
-            allow me to explore more career options in IT sector.
+            developer from Malaysia, working as an IT specialist in Fintech
+            industry. Currently seeking a Full Stack Developer position that
+            will allow me to explore more career options in IT sector.
           </div>
           <div className='AboutBio tagline2'>
-            I have become confident using the following technologies.
+            I confident using these following technologies.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
