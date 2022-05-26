@@ -19,9 +19,9 @@ function About() {
             alt='man'
           />
           <div className='AboutBio'>
-            Hello! My name is <strong>Chor Choon Heng</strong> A Full stack
+            Hello! My name is <strong>Chor Choon Heng</strong>. A full stack
             developer from Malaysia, working as an IT specialist in Fintech
-            industry. Currently seeking a Full Stack Developer position that
+            industry. Currently seeking a full stack developer position that
             will allow me to explore more career options in IT sector.
           </div>
           <div className='AboutBio tagline2'>
