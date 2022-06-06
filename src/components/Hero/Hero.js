@@ -22,18 +22,17 @@ function Hero() {
       <Header toggle={toggle} />
       <HeroContainer>
         <HeroWrapper>
-          <HeroLeft>
-            <h1>Hi, I'm Chor Choon Heng</h1>
-            <h5>Full Stack Developer</h5>
-            <p>I build anything. I make things alive.</p>
-          </HeroLeft>
           <HeroRight>
             <Image
               src='https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/character.svg'
               alt='man'
             />
           </HeroRight>
-          x``
+          <HeroLeft>
+            <h1>Hi, I'm Chor Choon Heng</h1>
+            <h5>Full Stack Developer</h5>
+            <p>I build everything on the internet.</p>
+          </HeroLeft>
         </HeroWrapper>
         <ScrollDown to='projects'>
           <ScrollLink>

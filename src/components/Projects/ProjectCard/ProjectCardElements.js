@@ -16,14 +16,16 @@ export const Card = styled.div`
 
 export const CardLeft = styled.div`
   border-radius: 5px;
-  border: 2px solid black;
+  border: 1px solid grey;
 
   padding: 2px;
   justify-self: center;
 
   img {
+    border: 1px solid grey;
     border-radius: 3px;
     height: auto;
+    max-height: 45rem;
   }
 `;
 

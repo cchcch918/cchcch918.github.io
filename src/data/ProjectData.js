@@ -2,6 +2,10 @@ export const ProjectList = [
   {
     images: [
       "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast1.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast2.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast3.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast4.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast5.png",
     ],
     title: "iFAST Singapore",
     description:
