@@ -1,6 +1,8 @@
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast1.png",
+    images: [
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/ifast1.png",
+    ],
     title: "iFAST Singapore",
     description:
       "An enterprise investment platform enables users to place a wide selection of investment products into one consolidated portfolio.",
@@ -9,7 +11,13 @@ export const ProjectList = [
     demo_url: "https://secure.ifastnetwork.com/ifastverve/home/index.tpl",
   },
   {
-    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/boc1.png",
+    images: [
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/boc1.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/boc2.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/boc3.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/boc4.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/boc5.png",
+    ],
     title: "Bank of China",
     description:
       "An enterprise investment mobile view web application which provides investment tools to ease user on transaction process.",
@@ -17,7 +25,9 @@ export const ProjectList = [
       "Angular8, NGXS, RXJS, NgZorro, Java Spring, Hibernate, Oracle SQL",
   },
   {
-    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/weather1.PNG",
+    images: [
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/weather1.PNG",
+    ],
     title: "Weather App",
     description:
       "Weather apps to provide accurate weather information based on location. Integrated using Open Weather API.",
@@ -25,7 +35,11 @@ export const ProjectList = [
     github_url: "https://github.com/cchcch918/merquri-react-test",
   },
   {
-    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/qpoint1.png",
+    images: [
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/qpoint1.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/qpoint2.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/qpoint3.png",
+    ],
     title: "Qpoint",
     description:
       "An automated behavioral point system using QR technology to keep track student activities in school.",
@@ -33,7 +47,12 @@ export const ProjectList = [
     github_url: "https://your_project_github_link",
   },
   {
-    img: "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/galaSejahtera1.png",
+    images: [
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/galaSejahtera1.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/galaSejahtera2.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/galaSejahtera3.png",
+      "https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/projectImage/galaSejahtera4.png",
+    ],
     title: "Gala Sejahtera",
     description:
       "A mobile application consists of modules like distinct tracking, geofencing, self-screening, to keep track COVID-19 cases around the users area.",

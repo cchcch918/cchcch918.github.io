@@ -29,16 +29,17 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src='https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/boy.svg'
+              src='https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/character.gif'
               alt='man'
             />
           </HeroRight>
+          x``
         </HeroWrapper>
         <ScrollDown to='projects'>
           <ScrollLink>
             Scroll down
             <img
-              src='https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/scroll-down.svg'
+              src='https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/scroll-down.svg'
               alt='scroll-down'
             />
           </ScrollLink>

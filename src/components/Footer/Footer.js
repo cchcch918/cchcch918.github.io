@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterSection = styled.div`
-  background-image: url(https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/footer_wave.svg);
+  background-image: url(https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/footer_wave.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -22,13 +22,13 @@ const FooterSection = styled.div`
 function Footer() {
   return (
     <FooterSection>
-      <div className="Container">
+      <div className='Container'>
         <span>
           Coded by{" "}
           <a
-            href="https://github.com/cchcch918"
-            target="_blank"
-            rel="noopener noreferrer"
+            href='https://github.com/cchcch918'
+            target='_blank'
+            rel='noopener noreferrer'
           >
             @cchcch918
           </a>{" "}

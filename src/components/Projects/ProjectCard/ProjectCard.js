@@ -7,13 +7,24 @@ import {
   Stack,
   BtnGroup,
 } from "./ProjectCardElements";
+import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+
+// import { Carousel } from "3d-react-carousal";
+
 function ProjectCard() {
   return (
     <>
       {ProjectList.map((list, index) => (
         <Card key={index}>
           <CardLeft>
-            <img src={list.img} alt={list.name} />
+            <Carousel showArrows={true}>
+              {list.images.map((image, index) => (
+                <div>
+                  <img src={image} />
+                </div>
+              ))}
+            </Carousel>
           </CardLeft>
           <CardRight>
             <h4>{list.title}</h4>
