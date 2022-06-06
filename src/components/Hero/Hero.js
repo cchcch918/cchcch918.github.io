@@ -29,7 +29,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src='https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/character.gif'
+              src='https://raw.githubusercontent.com/cchcch918/cchcch918.github.io/master/src/Assets/character.svg'
               alt='man'
             />
           </HeroRight>
